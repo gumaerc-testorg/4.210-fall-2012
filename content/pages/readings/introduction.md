@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 parent_title: Readings
+parent_type: CourseSection
 parent_uid: 2eaf95ad-12c8-6e2e-3d7a-204660a7c169
 title: Introduction
 uid: ba5338fb-cdf8-7816-e460-976d16788baf

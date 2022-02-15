@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 parent_title: Readings
+parent_type: CourseSection
 parent_uid: 2eaf95ad-12c8-6e2e-3d7a-204660a7c169
 title: "Urban Plan \u21D2 Map of Operations"
 uid: 8e742b8e-fb33-350f-812b-5cd1c3e20870
