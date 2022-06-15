@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section includes the required readings, recommended readings, and
+  suggested texts for perusal for each session.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -27,7 +29,7 @@ THEME
 1-2
 {{< tdclose >}}
 {{< tdopen >}}
-[Introduction]({{< baseurl >}}/pages/readings/introduction)
+{{% resource_link ba5338fb-cdf8-7816-e460-976d16788baf "Introduction" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -36,7 +38,7 @@ THEME
 3-4
 {{< tdclose >}}
 {{< tdopen >}}
-[City ⇒ Global Economy]({{< baseurl >}}/pages/readings/city-2192-global-economy)
+{{% resource_link 6a83b87a-10f3-2a8b-ffe2-7d8a05c28e5b "City ⇒ Global Economy" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -45,7 +47,7 @@ THEME
 5-6
 {{< tdclose >}}
 {{< tdopen >}}
-[Urban Plan ⇒ Map of Operations]({{< baseurl >}}/pages/readings/urban-plan-2192-map-of-operations)
+{{% resource_link 8e742b8e-fb33-350f-812b-5cd1c3e20870 "Urban Plan ⇒ Map of Operations" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -54,7 +56,7 @@ THEME
 7-8
 {{< tdclose >}}
 {{< tdopen >}}
-[Program ⇒ Performance]({{< baseurl >}}/pages/readings/program-2192-performance-relations-effects-atmospheres)
+{{% resource_link aa39e9f2-3676-6adb-a30c-9d663de2d32a "Program ⇒ Performance" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -63,7 +65,7 @@ THEME
 9-10
 {{< tdclose >}}
 {{< tdopen >}}
-[Drawing ⇒ Scripting]({{< baseurl >}}/pages/readings/drawing-2192-scripting)
+{{% resource_link a2d6c41c-89dd-c1a4-7562-216d2e33a090 "Drawing ⇒ Scripting" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -72,7 +74,7 @@ THEME
 11-12
 {{< tdclose >}}
 {{< tdopen >}}
-[Image ⇒ Surface]({{< baseurl >}}/pages/readings/image-2192-surface)
+{{% resource_link c4927399-c8ba-9942-839d-bd1468e806db "Image ⇒ Surface" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -81,7 +83,7 @@ THEME
 13-14
 {{< tdclose >}}
 {{< tdopen >}}
-[Utopia ⇒ Projection]({{< baseurl >}}/pages/readings/utopia-2192-projection)
+{{% resource_link 4f4878c4-02be-bd8b-7f4e-15fa6e269223 "Utopia ⇒ Projection" %}}
 {{< tdclose >}}
 
 {{< trclose >}}

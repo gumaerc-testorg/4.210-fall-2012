@@ -1,12 +1,14 @@
 ---
 content_type: page
+description: The section includes a listing of lecture sessions, and the projects
+  presented by instructor and students for each session.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Calendar
 uid: 32d8f9a1-6934-c8da-f2f1-f36eed278be0
 ---
 
-The architectural works listed are those chosen for student presentations. Additional resources for these works can be found in [Presentations]({{< baseurl >}}/pages/presentations).
+The architectural works listed are those chosen for student presentations. Additional resources for these works can be found in {{% resource_link 5b4e1e2a-ee69-0b9c-c12d-cfd2249305e5 "Presentations" %}}.
 
 {{< tableopen >}}
 {{< theadopen >}}

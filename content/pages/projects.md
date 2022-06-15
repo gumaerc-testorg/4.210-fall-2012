@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: 'This section provides specifications and sample topics for the term
+  project of the course: a visual dossier on a theme, or body of work, that is of
+  a particular interest to the student.'
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
