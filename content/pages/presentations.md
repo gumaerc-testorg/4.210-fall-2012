@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section includes resources and texts relevant to the project presentations
+  to be delivered by the students during class.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Presentations
 uid: 5b4e1e2a-ee69-0b9c-c12d-cfd2249305e5
 ---

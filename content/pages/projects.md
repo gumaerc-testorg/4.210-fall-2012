@@ -1,5 +1,11 @@
 ---
 content_type: page
+description: 'This section provides specifications and sample topics for the term
+  project of the course: a visual dossier on a theme, or body of work, that is of
+  a particular interest to the student.'
+learning_resource_types:
+- Projects
+ocw_type: CourseSection
 title: Projects
 uid: 068f11ef-1238-da45-4dc9-9062b5f744ba
 ---
