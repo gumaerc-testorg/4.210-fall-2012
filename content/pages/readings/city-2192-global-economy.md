@@ -22,29 +22,29 @@ READINGS
 Required
 {{< tdclose >}}{{< tdopen >}}
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262220156) Venturi, Robert, Denise Scott Brown, and Steven Izenour. [*Learning from Las Vegas*](https://mitpress.mit.edu/9780262220156). MIT Press, 1972, pp. 3–9, 18–20, 34–5, 49–53 and 72. ISBN: 9780262220156.
+{{% resource_link "c4d39783-d261-447f-ae4e-8daa37952075" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Venturi, Robert, Denise Scott Brown, and Steven Izenour. {{% resource_link "c4d39783-d261-447f-ae4e-8daa37952075" "*Learning from Las Vegas*" %}}. MIT Press, 1972, pp. 3–9, 18–20, 34–5, 49–53 and 72. ISBN: 9780262220156.
 
-Jameson, Fredric. "Postmodernism and Consumer Society." In *The Cultural Turn: Selected Writings on the Postmodern* *(1983-1998)*. Verso, 1998, pp. 1–20. \[Preview with [Google Books](http://books.google.com/books?id=8Bug4-ImpzAC&pg=PA1=onepage)\]
+Jameson, Fredric. "Postmodernism and Consumer Society." In *The Cultural Turn: Selected Writings on the Postmodern* *(1983-1998)*. Verso, 1998, pp. 1–20. \[Preview with {{% resource_link "e7daaecd-044c-49b9-8e4b-90c8f3e91d62" "Google Books" %}}\]
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Recommended
 {{< tdclose >}}{{< tdopen >}}
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262134439) Moneo, Rafael. "Robert Venturi and Denise Scott Brown." In [*Theoretical Anxiety and Design Strategy in the Work of Eight Contemporary Architects*](https://mitpress.mit.edu/9780262134439). MIT Press, 2004, pp. 51–100. ISBN: 9780262134439.
+{{% resource_link "aa3152bf-3856-4395-b64f-7b0ce79b460e" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Moneo, Rafael. "Robert Venturi and Denise Scott Brown." In {{% resource_link "aa3152bf-3856-4395-b64f-7b0ce79b460e" "*Theoretical Anxiety and Design Strategy in the Work of Eight Contemporary Architects*" %}}. MIT Press, 2004, pp. 51–100. ISBN: 9780262134439.
 
-Huyssen, Andreas. *After The Great Divide: Modernism, Mass Culture, Postmodernism*. Indiana University Press, 1987. ISBN: 9780253203991. \[Preview with [Google Books](http://books.google.com/books?id=WAkocqh61O0C&printsec=frontcover#v=onepage)\]
+Huyssen, Andreas. *After The Great Divide: Modernism, Mass Culture, Postmodernism*. Indiana University Press, 1987. ISBN: 9780253203991. \[Preview with {{% resource_link "bf00882f-a445-4a97-89f6-bd39809de681" "Google Books" %}}\]
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262082617) Brown, Denise Scott. "Learning from Pop." In [*Architecture Theory Since 1968*](https://mitpress.mit.edu/9780262082617). Edited by K. Michael Hays. MIT Press, 1998, pp. 60–6. ISBN: 9780262082617.
+{{% resource_link "1eb66aa5-899e-47b2-ac95-aebfe1bb5545" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Brown, Denise Scott. "Learning from Pop." In {{% resource_link "1eb66aa5-899e-47b2-ac95-aebfe1bb5545" "*Architecture Theory Since 1968*" %}}. Edited by K. Michael Hays. MIT Press, 1998, pp. 60–6. ISBN: 9780262082617.
 
-Martin, Reinhold. "[Architecture's Image Problem: Have We Ever Been Postmodern?](http://dx.doi.org/10.1162/152638106775434413)" *Grey Room* 22 (2006): 6–29.
+Martin, Reinhold. "{{% resource_link "bbd1ffa2-d3ec-40e6-9cc9-8d4e4dcc99a6" "Architecture's Image Problem: Have We Ever Been Postmodern?" %}}" *Grey Room* 22 (2006): 6–29.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Peruse
 {{< tdclose >}}{{< tdopen >}}
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262220156) Venturi, Robert, Denise Scott Brown, and Steven Izenour. [*Learning from Las Vegas*](https://mitpress.mit.edu/9780262220156). MIT Press, 1972. ISBN: 9780262220156.
+{{% resource_link "c4d39783-d261-447f-ae4e-8daa37952075" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Venturi, Robert, Denise Scott Brown, and Steven Izenour. {{% resource_link "c4d39783-d261-447f-ae4e-8daa37952075" "*Learning from Las Vegas*" %}}. MIT Press, 1972. ISBN: 9780262220156.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262680424) Rowe, Colin, and Fred Koetter. [*Collage City*](https://mitpress.mit.edu/9780262680424). MIT Press, 1984. ISBN: 9780262680424.
+{{% resource_link "4faa62cd-93d7-4811-9c0a-4c75915277ec" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Rowe, Colin, and Fred Koetter. {{% resource_link "4faa62cd-93d7-4811-9c0a-4c75915277ec" "*Collage City*" %}}. MIT Press, 1984. ISBN: 9780262680424.
 
 Koolhaas, Rem. *Delirious New York: A Retroactive Manifesto*. Oxford University Press, 1978. ISBN: 9782851081735.
 
@@ -70,17 +70,17 @@ Speaks, Michael, Michael Hays, Sanford Kwinter, et al. "The Design and Crime For
 Recommended
 {{< tdclose >}}{{< tdopen >}}
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262134439) Moneo, Rafael. "Rem Koolhaas." In [*Theoretical Anxiety and Design Strategy in the Work of Eight Contemporary Architects*](https://mitpress.mit.edu/9780262134439). MIT Press, 2004, pp. 307–59. ISBN: 9780262134439.
+{{% resource_link "aa3152bf-3856-4395-b64f-7b0ce79b460e" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Moneo, Rafael. "Rem Koolhaas." In {{% resource_link "aa3152bf-3856-4395-b64f-7b0ce79b460e" "*Theoretical Anxiety and Design Strategy in the Work of Eight Contemporary Architects*" %}}. MIT Press, 2004, pp. 307–59. ISBN: 9780262134439.
 
 Koolhaas, Rem. "White Briefs Against Filth: The Waning power of New York." In *Content*. Taschen, 2004, pp. 236–9. ISBN: 9783822830703.
 
-Kwinter, Sanford, ed. "Flying the Bullet, or When Did the Future Begin?" In *Rem Koolhaas: Conversations with Students*.  Princeton Architectural Press, 1996, pp. 68–91. ISBN: 9781885232021. \[Preview with [Google Books](http://books.google.com/books?id=73n1czaLNX4C&printsec=frontcover#v=onepage)\]
+Kwinter, Sanford, ed. "Flying the Bullet, or When Did the Future Begin?" In *Rem Koolhaas: Conversations with Students*.  Princeton Architectural Press, 1996, pp. 68–91. ISBN: 9781885232021. \[Preview with {{% resource_link "e9a788fa-694c-4f90-9d07-486954e8c3f1" "Google Books" %}}\]
 
-Kwinter, Sanford. "[New Babylons: Urbanism at the End of the Millennium](http://dx.doi.org/10.2307/3171388)." In *Assemblage* 25 (1995): 80–1.
+Kwinter, Sanford. "{{% resource_link "4f5f8ae1-1bdb-4758-b9f2-94761cef3043" "New Babylons: Urbanism at the End of the Millennium" %}}." In *Assemblage* 25 (1995): 80–1.
 
 Koolhass, Rem, and Hans Ulrich Obrist. "Re-learning from Las Vegas: Interview with Robert Venturi and Denise Scott Brown." In *Content*. Taschen, 2004, pp. 150–7. ISBN: 9783822830703.
 
-Scott, Felicity. "[On Architecture Under Capitalism](http://www.mitpressjournals.org/doi/abs/10.1162/152638102317406498)." *Grey Room* 6 (2002): 44–65.
+Scott, Felicity. "{{% resource_link "339520dc-a2f7-4bb5-8be6-e1e0337abd85" "On Architecture Under Capitalism" %}}." *Grey Room* 6 (2002): 44–65.
 
 Koolhaas, Rem. "The Ultimate Atlas for the 21st Century." *Wired*, June 2003, 132–69.
 
