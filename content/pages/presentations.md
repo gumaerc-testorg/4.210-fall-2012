@@ -67,18 +67,18 @@ Mapping of contemporary discourse
 3
 {{< tdclose >}}
 {{< tdopen >}}
-Jameson, Fredric. "Postmodernism and Consumer Society." In _The Cultural Turn: Selected Writings on the Postmodern_ _(1983-1998)_. Verso, 1998, pp. 1–20. ISBN: 9781859841822. \[Preview with [Google Books](http://books.google.com/books?id=8Bug4-ImpzAC&pg=PA1=onepage)\]
+Jameson, Fredric. "Postmodernism and Consumer Society." In _The Cultural Turn: Selected Writings on the Postmodern_ _(1983-1998)_. Verso, 1998, pp. 1–20. ISBN: 9781859841822. \[Preview with {{% resource_link "e7daaecd-044c-49b9-8e4b-90c8f3e91d62" "Google Books" %}}\]
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-Robert Venturi, Denise Scott Brown, Steven Izenour: [Learning from Las Vegas](http://venturiscottbrown.org/bibliography/)
+Robert Venturi, Denise Scott Brown, Steven Izenour: {{% resource_link "6945453c-ba47-4652-acb8-5c956b36a35c" "Learning from Las Vegas" %}}
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262220156) Venturi, Robert, Denise Scott-Brown, and Steven Izenour. "Theories of Ugly and Ordinary and Related Contrary Theories." In [_Learning from Las Vegas_](https://mitpress.mit.edu/9780262220156). MIT Press, 1972, pp. 128–63. ISBN: 9780262220156.
+{{% resource_link "c4d39783-d261-447f-ae4e-8daa37952075" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Venturi, Robert, Denise Scott-Brown, and Steven Izenour. "Theories of Ugly and Ordinary and Related Contrary Theories." In {{% resource_link "c4d39783-d261-447f-ae4e-8daa37952075" "_Learning from Las Vegas_" %}}. MIT Press, 1972, pp. 128–63. ISBN: 9780262220156.
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-Peter Eisenman: [Cannaregio Project](http://www.eisenmanarchitects.com/); and [Early Houses](http://www.eisenmanarchitects.com/)
+Peter Eisenman: {{% resource_link "5540a094-330c-403f-9e41-9927a16b0687" "Cannaregio Project" %}}; and {{% resource_link "5540a094-330c-403f-9e41-9927a16b0687" "Early Houses" %}}
 
 
 {{< tdclose >}}
@@ -100,11 +100,11 @@ Koolhaas, Rem. "Globalization." In _S, M, L, XL_. The Monacelli Press, 1995, pp.
 {{< tdopen >}}
 
 
-FOA (Foreign Office Architects): [Yokohama International Port Terminal](https://www.designboom.com/architecture/yokohama-international-passenger-terminal-foreign-office-architects-edward-caruso-02-16-2017/)
+FOA (Foreign Office Architects): {{% resource_link "675b310f-f9de-4b85-81ea-23a16e36e70d" "Yokohama International Port Terminal" %}}
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[Shrinking Cities Competition](http://www.shrinkingcities.com/wettbewerb.0.html), or [Ordos 100](http://www.archdaily.com/tag/ordos-100/), or [Foster](http://www.archdaily.com/tag/foster-partners/)
+{{% resource_link "87465e10-6ba6-401c-82c3-1815b6b34255" "Shrinking Cities Competition" %}}, or {{% resource_link "e53c6147-6508-4e65-bc4d-e499b23cdfd4" "Ordos 100" %}}, or {{% resource_link "2c264c14-44a7-48b3-a20e-4a29a4931175" "Foster" %}}
 
 
 {{< tdclose >}}
@@ -125,20 +125,20 @@ FOA (Foreign Office Architects): [Yokohama International Port Terminal](https://
 
 De Certeau, Michel. "Spatial Practices: Walking in the City." In _The Practice of Everyday Life_. The University of California Press, 1984, pp. 91–110. ISBN: 9780520047501.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262200943) Tschumi, Bernard. "Spaces and Events." In _Architecture and Disjunction_. MIT Press, 1994, pp. 139–49. ISBN: 9780262200943.
+{{% resource_link "bfab4cea-c782-407b-8082-d795abaa1580" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Tschumi, Bernard. "Spaces and Events." In _Architecture and Disjunction_. MIT Press, 1994, pp. 139–49. ISBN: 9780262200943.
 
 
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-Bernard Tschumi: [The Manhattan Transcripts](http://www.tschumi.com/publications/16/)
+Bernard Tschumi: {{% resource_link "dbaa3f3e-58bf-4636-9c58-6f011336eace" "The Manhattan Transcripts" %}}
 
 Tschumi, Bernard. _The Manhattan Transcripts_. 2nd ed. John Wiley & Sons, 1994. ISBN: 9781854903815.
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-Atelier Bow-Wow: [Made in Tokyo](http://www.bow-wow.jp/profile/publications_e.html)
+Atelier Bow-Wow: {{% resource_link "1eaa6380-cca2-4b21-adc3-66a7bb66b65d" "Made in Tokyo" %}}
 
 Kuroda, Junzo, and Momoyo Kaijima. _Made in Tokyo: Guide Book_. Kajima Institute Publishing, 2001. ISBN: 9784306044210.
 
@@ -151,12 +151,12 @@ Kuroda, Junzo, and Momoyo Kaijima. _Made in Tokyo: Guide Book_. Kajima Institute
 6
 {{< tdclose >}}
 {{< tdopen >}}
-Corner, James, eds. "Eidetic Operations and New Landscapes." In _Recovering Landscape: Essays in Contemporary Landscape Architecture_. Princeton Architectural Press, 1999, pp. 153–68. ISBN: 9781568981796. \[Preview with [Google Books](http://books.google.com/books?id=aGAVHkQBTGkC&pg=PA153#v=onepage)\]
+Corner, James, eds. "Eidetic Operations and New Landscapes." In _Recovering Landscape: Essays in Contemporary Landscape Architecture_. Princeton Architectural Press, 1999, pp. 153–68. ISBN: 9781568981796. \[Preview with {{% resource_link "bb04367e-6ac4-4258-b747-08f3522b914e" "Google Books" %}}\]
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-[Downsview Park finalists](http://archive.is/JGBLJ)
+{{% resource_link "2a51bbb9-0d1e-43f5-836d-6af38f7c6bea" "Downsview Park finalists" %}}
 
 Czerniak, Julia. _Downsview Park Toronto_. Prestell Publishing, 2002. ISBN: 9783791325361.
 
@@ -177,7 +177,7 @@ Czerniak, Julia. _Downsview Park Toronto_. Prestell Publishing, 2002. ISBN: 9783
 {{< tdopen >}}
 
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262181723) Rowe, Colin. "Program versus Paradigm: Otherwise Casual Notes on the Pragmatic, the Typical and the Possible." In [_As I Was Saying: Recollections and Miscellaneous Essays: Texas, Pre-Texas, Cambridge_](https://mitpress.mit.edu/9780262181723). MIT Press, 1995, pp. 36–42. ISBN: 9780262181723.
+{{% resource_link "fb30aac4-a52f-4380-aa27-24f64a568843" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Rowe, Colin. "Program versus Paradigm: Otherwise Casual Notes on the Pragmatic, the Typical and the Possible." In {{% resource_link "fb30aac4-a52f-4380-aa27-24f64a568843" "_As I Was Saying: Recollections and Miscellaneous Essays: Texas, Pre-Texas, Cambridge_" %}}. MIT Press, 1995, pp. 36–42. ISBN: 9780262181723.
 
 Koolhaas, Rem. "Programmatic Lava." In _S, M, L, XL_. The Monacelli Press, 1995, pp. 1210–37. ISBN: 9781885254016.
 
@@ -186,19 +186,19 @@ Koolhaas, Rem. "Programmatic Lava." In _S, M, L, XL_. The Monacelli Press, 1995,
 {{< tdopen >}}
 
 
-OMA (Office for Metropolitan Architecture): [Seattle Central Library](http://oma.eu/projects/2004/seattle-central-library); and [Très Grande Bibliothèque](http://oma.eu/projects/1989/tr%C3%A8s-grande-biblioth%C3%A8que)
+OMA (Office for Metropolitan Architecture): {{% resource_link "30f88d40-f397-481a-a95c-0eee422b503f" "Seattle Central Library" %}}; and {{% resource_link "bbe1d647-f28f-45ae-8eb1-bc6def60ab5e" "Très Grande Bibliothèque" %}}
 
 Kubo, Michael. _Office for Metropolitan Architecture: Seattle Public Library_. Actar, 2005. ISBN: 9788495951632.
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[Atelier FCJZ](http://www.fcjz.com/)
+{{% resource_link "3f8a3f9e-866d-412a-8365-72a27932ea5f" "Atelier FCJZ" %}}
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[WORKac](http://work.ac/) (Work Architecture Company)
+{{% resource_link "615fb4d8-624b-4147-8321-7721024572d7" "WORKac" %}} (Work Architecture Company)
 
-[BIG](http://www.big.dk/) (Bjarke Ingels Group)
+{{% resource_link "aa3ec085-41ae-4e27-ae4d-8fff8e9ea241" "BIG" %}} (Bjarke Ingels Group)
 
 
 {{< tdclose >}}
@@ -220,17 +220,17 @@ Van Berkel, Ben, and Caroline Bos. "The New Concept of the Architect." In _MOVE_
 {{< tdopen >}}
 
 
-[MoMA PS1 Young Architects Program](http://momaps1.org/yap/) finalists
+{{% resource_link "5bc1df1f-111a-467b-a578-f3bbd01e462b" "MoMA PS1 Young Architects Program" %}} finalists
 
-\- [SUR](https://www.moma.org/calendar/exhibitions/114) by Xefirotarch (2005)
+\- {{% resource_link "26f250fb-6539-4f56-a626-e0028cc1c4ca" "SUR" %}} by Xefirotarch (2005)
 
-\- [Canopy](http://narchitects.com/work/momap-s-1-canopy-3/) by nARCHITECTS (2004)
+\- {{% resource_link "27245b5e-e618-449e-9f39-921f56634352" "Canopy" %}} by nARCHITECTS (2004)
 
-\- [Dunescape](http://www.shoparc.com/#/projects/all/dunescape) by SHoP (2000)
+\- {{% resource_link "273ddbd5-19e0-4f36-8dce-7a82e58b56bc" "Dunescape" %}} by SHoP (2000)
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[R&Sie(n) Architects](http://www.new-territories.com/)
+{{% resource_link "612ba151-2f35-4ef3-94c8-ecf5a5e38ddd" "R&Sie(n) Architects" %}}
 
 
 {{< tdclose >}}
@@ -247,16 +247,16 @@ Van Berkel, Ben, and Caroline Bos. "The New Concept of the Architect." In _MOVE_
 9
 {{< tdclose >}}
 {{< tdopen >}}
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262082617) Evans, Robin. "In Front of Lines that Leave Nothing Behind: Chamber Works." In [_Architecture Theory Since 1968_](https://mitpress.mit.edu/9780262082617). Edited by K. Michael Hays. MIT Press, 1998, pp. 480–90. ISBN: 9780262082617.
+{{% resource_link "1eb66aa5-899e-47b2-ac95-aebfe1bb5545" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Evans, Robin. "In Front of Lines that Leave Nothing Behind: Chamber Works." In {{% resource_link "1eb66aa5-899e-47b2-ac95-aebfe1bb5545" "_Architecture Theory Since 1968_" %}}. Edited by K. Michael Hays. MIT Press, 1998, pp. 480–90. ISBN: 9780262082617.
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-Diller Scofidio + Renfro: [Early work; drawings;](http://www.dsrny.com/) and [Institute of Contemporary Art (ICA) Boston](http://www.icaboston.org/)
+Diller Scofidio + Renfro: {{% resource_link "ce46f9a5-c3d0-4775-badd-9e11c715a9cc" "Early work; drawings;" %}} and {{% resource_link "e6b94baf-33f6-44ce-aaae-d482bea2c01e" "Institute of Contemporary Art (ICA) Boston" %}}
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-Steven Holl: [Early drawings](http://www.stevenholl.com/index.php); and [Simmons Hall](http://www.stevenholl.com/projects/mit-simmons-hall)
+Steven Holl: {{% resource_link "1daf2008-6096-42ad-b964-770c5c41354c" "Early drawings" %}}; and {{% resource_link "df5beec2-a812-4bcc-8002-e35aa50e430a" "Simmons Hall" %}}
 
 
 {{< tdclose >}}
@@ -278,11 +278,11 @@ Allen, Stan. "The Digital Complex." In _Log 5._ Anyone Corporation, 2005, pp. 93
 {{< tdopen >}}
 
 
-[dECOi Architects](http://www.decoi-architects.org/) or [Contemporary Architecture Practice](http://www.c-a-p.net/) (Ali Rahim and Hina Jamelle)
+{{% resource_link "5fed7346-8401-4a9f-b0d9-9948a9e27f7d" "dECOi Architects" %}} or {{% resource_link "936a7fe9-ff8c-4bff-b3d6-aeeacadc44fa" "Contemporary Architecture Practice" %}} (Ali Rahim and Hina Jamelle)
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-MVRDV: [FARMAX](http://www.mvrdv.nl/#/publications/farmax)
+MVRDV: {{% resource_link "cd764fc4-eee2-4a89-a752-6b045d2c2806" "FARMAX" %}}
 
 Maas, Winy, Jacob van Rijs, and Richard Koek, eds. _Farmax_. Uitgeverij 010 Publishers, 1998. ISBN: 9789064502668.
 
@@ -301,20 +301,20 @@ Maas, Winy, Jacob van Rijs, and Richard Koek, eds. _Farmax_. Uitgeverij 010 Publ
 11
 {{< tdclose >}}
 {{< tdopen >}}
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262220156) Venturi, Robert, Denise Scott-Brown, and Steven Izenour. "Theories of Ugly and Ordinary and Related Contrary Theories." In [_Learning from Las Vegas_](https://mitpress.mit.edu/9780262220156). MIT Press, 1972, pp. 128–63. ISBN: 9780262220156.
+{{% resource_link "c4d39783-d261-447f-ae4e-8daa37952075" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Venturi, Robert, Denise Scott-Brown, and Steven Izenour. "Theories of Ugly and Ordinary and Related Contrary Theories." In {{% resource_link "c4d39783-d261-447f-ae4e-8daa37952075" "_Learning from Las Vegas_" %}}. MIT Press, 1972, pp. 128–63. ISBN: 9780262220156.
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-Zaha Hadid: [Vitra Fire Station](http://www.zaha-hadid.com/architecture/vitra-fire-station-2/); and BMW Central Building / [BMW Showroom](http://www.zaha-hadid.com/architecture/bmw-showroom/)
+Zaha Hadid: {{% resource_link "c96146b8-e315-480f-bd8f-1b9fc6ccaa6e" "Vitra Fire Station" %}}; and BMW Central Building / {{% resource_link "b28c4976-65fe-4bb8-94d5-d4c835ad3bad" "BMW Showroom" %}}
 
-[LO-TEK](http://www.lot-ek.com/)
+{{% resource_link "46fe4c3b-e2ef-4aac-97bb-c5caa86cc471" "LO-TEK" %}}
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[Jürgen Mayer H](http://www.jmayerh.de/).
+{{% resource_link "0a245ab3-38b3-4f76-a26d-647ad0f7665e" "Jürgen Mayer H" %}}.
 
-Pier Vittorio Aureli: [A Vision for Brussels](http://www.bozar.be/en/activities/1511-a-vision-for-brussels)
+Pier Vittorio Aureli: {{% resource_link "7233c4ae-611d-40c3-a4ae-e74d2962f6cd" "A Vision for Brussels" %}}
 
 Aurelli, Pier Vittorio. _Brussels: A Manifesto Towards the Capital of Europe_. Edited by Veronique Patteeuw, Joachim Deklerck, and Martino Tattara. NAi Publishers, 2007. ISBN: 9789056625528.
 
@@ -327,12 +327,12 @@ Aurelli, Pier Vittorio. _Brussels: A Manifesto Towards the Capital of Europe_. E
 12
 {{< tdclose >}}
 {{< tdopen >}}
-Hays, K. Michael. "[Critical Architecture Between Culture and Form](http://www.jstor.org/stable/1567078)." _Perspecta_ 21 (1984):14–29.
+Hays, K. Michael. "{{% resource_link "a55cce6e-1ef1-4c18-8811-90f47dabe670" "Critical Architecture Between Culture and Form" %}}." _Perspecta_ 21 (1984):14–29.
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-Herzog & de Meuron: [American works](http://www.herzogdemeuron.com/index/projects/complete-works.html)
+Herzog & de Meuron: {{% resource_link "9184d71a-a357-4693-be79-36314f4e4b6f" "American works" %}}
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -353,7 +353,7 @@ Office dA: Visit at least one project in Boston
 13
 {{< tdclose >}}
 {{< tdopen >}}
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262082617) Tafuri, Manfredo. "L'Architecture dans le Boudoir; Architecture of Criticism and the Criticism of Language." In [_Architecture Theory Since 1968_](https://mitpress.mit.edu/9780262082617). Edited by in K. Michael Hays. MIT Press, 1998, pp. 148–67. ISBN: 9780262082617.
+{{% resource_link "1eb66aa5-899e-47b2-ac95-aebfe1bb5545" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Tafuri, Manfredo. "L'Architecture dans le Boudoir; Architecture of Criticism and the Criticism of Language." In {{% resource_link "1eb66aa5-899e-47b2-ac95-aebfe1bb5545" "_Architecture Theory Since 1968_" %}}. Edited by in K. Michael Hays. MIT Press, 1998, pp. 148–67. ISBN: 9780262082617.
 {{< tdclose >}}
 {{< tdopen >}}
  No student presentations
