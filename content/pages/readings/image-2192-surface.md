@@ -22,37 +22,37 @@ READINGS
 Required
 {{< tdclose >}}{{< tdopen >}}
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262181013) Rossi, Aldo. [*The Architecture of the City*](https://mitpress.mit.edu/9780262181013). MIT Press, 1982, pp. 21–41. ISBN: 9780262181013. \[Preview with [Google Books](http://books.google.com/books?id=9GIrP7EQ0Y8C&pg=PAfrontpage#v=onepage)\]
+{{% resource_link "c481d92b-2b39-40c3-8405-8feafadc4f20" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Rossi, Aldo. {{% resource_link "c481d92b-2b39-40c3-8405-8feafadc4f20" "*The Architecture of the City*" %}}. MIT Press, 1982, pp. 21–41. ISBN: 9780262181013. \[Preview with {{% resource_link "b9ee9b63-1d68-47a4-b4b4-c4dc37548e54" "Google Books" %}}\]
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262220156) Venturi, Robert, Denise Scott-Brown, and Steven Izenour. "Theories of Ugly and Ordinary and Related Contrary Theories." In [*Learning from Las Vegas*](https://mitpress.mit.edu/9780262220156). MIT Press, 1972, pp. 128–63. ISBN: 9780262220156.
+{{% resource_link "c4d39783-d261-447f-ae4e-8daa37952075" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Venturi, Robert, Denise Scott-Brown, and Steven Izenour. "Theories of Ugly and Ordinary and Related Contrary Theories." In {{% resource_link "c4d39783-d261-447f-ae4e-8daa37952075" "*Learning from Las Vegas*" %}}. MIT Press, 1972, pp. 128–63. ISBN: 9780262220156.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Recommended
 {{< tdclose >}}{{< tdopen >}}
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262134439) Moneo, Rafael. "Aldo Rossi." In [*Theoretical Anxiety and Design Strategy in the Work of Eight Contemporary Architects*](https://mitpress.mit.edu/9780262134439). MIT Press, 2004, pp. 101–42. ISBN: 9780262134439.
+{{% resource_link "aa3152bf-3856-4395-b64f-7b0ce79b460e" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Moneo, Rafael. "Aldo Rossi." In {{% resource_link "aa3152bf-3856-4395-b64f-7b0ce79b460e" "*Theoretical Anxiety and Design Strategy in the Work of Eight Contemporary Architects*" %}}. MIT Press, 2004, pp. 101–42. ISBN: 9780262134439.
 
 Hays, K. Michael. "Odysseus and the Oarsman, or, Mies's Abstraction Once Again." In *The Presence of Mies*. Edited by Detlef Mertins. Princeton Architectural Press, 1996, pp. 235–48. ISBN: 9781568980133.
 
 Jameson, Fredric. "Transformations of the Image in Postmodernity." In *The Cultural Turn: Selected Writings on the Postmodern 1938–1998*. Verso, 1998, pp. 93–135. ISBN: 9781859841822.
 
-Martin, Reinhold. "[Atrocities, or Curtain Wall as Mass Medium](http://www.jstor.org/stable/1567284)." *Perspecta* 32 (2001): 66–75.
+Martin, Reinhold. "{{% resource_link "51b6d9fa-946c-4f12-918a-42c3fe9d1a5c" "Atrocities, or Curtain Wall as Mass Medium" %}}." *Perspecta* 32 (2001): 66–75.
 
 Hays, K. Michael. "Mies Effect." In *Mies in America*. Edited by Phyllis Lambert. Harry N. Abrams, 2001. ISBN: 9780810967281.
 
-Martin, Reinhold. "[Architecture's Image Problem: Have We Ever Been Postmodern?](http://dx.doi.org/10.1162/152638106775434413)" *Grey Room* 22 (2006): 6–29.
+Martin, Reinhold. "{{% resource_link "bbd1ffa2-d3ec-40e6-9cc9-8d4e4dcc99a6" "Architecture's Image Problem: Have We Ever Been Postmodern?" %}}" *Grey Room* 22 (2006): 6–29.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Peruse
 {{< tdclose >}}{{< tdopen >}}
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262181013) Rossi, Aldo. [*The Architecture of the City*](https://mitpress.mit.edu/9780262181013). MIT Press, 1982. ISBN: 9780262181013. \[Preview with [Google Books](http://books.google.com/books?id=9GIrP7EQ0Y8C&pg=PAfrontpage#v=onepage)\]
+{{% resource_link "c481d92b-2b39-40c3-8405-8feafadc4f20" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Rossi, Aldo. {{% resource_link "c481d92b-2b39-40c3-8405-8feafadc4f20" "*The Architecture of the City*" %}}. MIT Press, 1982. ISBN: 9780262181013. \[Preview with {{% resource_link "b9ee9b63-1d68-47a4-b4b4-c4dc37548e54" "Google Books" %}}\]
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="2" >}}
 Session 12
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Required
 {{< tdclose >}}{{< tdopen >}}
 
-Hays, K. Michael. "[Critical Architecture Between Culture and Form](http://www.jstor.org/stable/1567078)." *Perspecta* 21 (1984): 14–29.
+Hays, K. Michael. "{{% resource_link "a55cce6e-1ef1-4c18-8811-90f47dabe670" "Critical Architecture Between Culture and Form" %}}." *Perspecta* 21 (1984): 14–29.
 
 ———. "The Envelope as Mediator." In *The State of Architecture at the Beginning of the 21st Century*. Edited by Bernard Tschumi and Irene Cheng. The Monacelli Press, 2004, pp. 66–7. ISBN: 9781580931342.
 
@@ -64,9 +64,9 @@ Zaera-Polo, Alejandro. "The Politics of the Envelope." *Volume* 17 (2008): 76–
 Recommended
 {{< tdclose >}}{{< tdopen >}}
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262134439) Moneo, Rafael. "Herzog and de Meuron." In [*Theoretical Anxiety and Design Strategy in the Work of Eight Contemporary Architects*](https://mitpress.mit.edu/9780262134439). MIT Press, 2004, pp. 361–404. ISBN: 9780262134439.
+{{% resource_link "aa3152bf-3856-4395-b64f-7b0ce79b460e" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Moneo, Rafael. "Herzog and de Meuron." In {{% resource_link "aa3152bf-3856-4395-b64f-7b0ce79b460e" "*Theoretical Anxiety and Design Strategy in the Work of Eight Contemporary Architects*" %}}. MIT Press, 2004, pp. 361–404. ISBN: 9780262134439.
 
-Deamer, Peggy. "[Structuring Surfaces: The Legacy of Whites](http://www.jstor.org/stable/1567286)." *Perspecta* 32 (2001): 90–9.
+Deamer, Peggy. "{{% resource_link "55190c67-9269-4385-92a7-6e26c6767f82" "Structuring Surfaces: The Legacy of Whites" %}}." *Perspecta* 32 (2001): 90–9.
 
 Taylor, Mark. "Reflections on Skin." In *Columbia Documents of Architecture and Theory.* C. B. A., 1997, 13–20.
 
@@ -77,5 +77,5 @@ Kwinter, Sanford. "Playboys of the Western World." *ANY* 13 (1996): 62.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Peruse
 {{< tdclose >}}{{< tdopen >}}
-Riley, Terence. *Light Construction: Museum of Modern Art*. Harry N Abrams, 1995. ISBN: 9780810961548. \[Preview with [Google Books](http://books.google.com/books?id=n1OFTXJNzVsC&&pg=PAfrontcover#v=onepage)\]
+Riley, Terence. *Light Construction: Museum of Modern Art*. Harry N Abrams, 1995. ISBN: 9780810961548. \[Preview with {{% resource_link "246823c6-41eb-40de-9a9a-99ed016fd1f1" "Google Books" %}}\]
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
