@@ -22,21 +22,21 @@ READINGS
 Required
 {{< tdclose >}}{{< tdopen >}}
 
-{{% resource_link "1eb66aa5-899e-47b2-ac95-aebfe1bb5545" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Eisenman, Peter. "Post-Functionalism." In {{% resource_link "1eb66aa5-899e-47b2-ac95-aebfe1bb5545" "*Architecture Theory Since 1968*" %}}. Edited by K. Michael Hays. MIT Press, 1998, pp. 234–9. ISBN: 9780262082617.
+[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262082617) Eisenman, Peter. "Post-Functionalism." In [*Architecture Theory Since 1968*](https://mitpress.mit.edu/9780262082617). Edited by K. Michael Hays. MIT Press, 1998, pp. 234–9. ISBN: 9780262082617.
 
-{{% resource_link "fb30aac4-a52f-4380-aa27-24f64a568843" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Rowe, Colin. "Program versus Paradigm: Otherwise Casual Notes on the Pragmatic, the Typical and the Possible." In {{% resource_link "fb30aac4-a52f-4380-aa27-24f64a568843" "*As I Was Saying: Recollections and Miscellaneous Essays: Texas, Pre-Texas, Cambridge*" %}}. MIT Press, 1995, pp. 36–42. ISBN: 9780262181723.
+[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262181723) Rowe, Colin. "Program versus Paradigm: Otherwise Casual Notes on the Pragmatic, the Typical and the Possible." In [*As I Was Saying: Recollections and Miscellaneous Essays: Texas, Pre-Texas, Cambridge*](https://mitpress.mit.edu/9780262181723). MIT Press, 1995, pp. 36–42. ISBN: 9780262181723.
 
-Vidler, Anthony. {{% resource_link "542ce28d-a53c-4532-a83e-98d709b59934" "\"Toward a Theory of the Architectural Program.\" (PDF)" %}} *October* 106, no. 1 (2003): 59–74.
+Vidler, Anthony. ["Toward a Theory of the Architectural Program." (PDF)](https://watermark.silverchair.com/016228703322791025.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAArswggK3BgkqhkiG9w0BBwagggKoMIICpAIBADCCAp0GCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMvrylE_xfb5gBeAEcAgEQgIICbjZsUl8xntedCtKKxDrI6hxUJf6u4RWwIhzl3Rn0QrbJ5jlabTuygM9fIFN8GXwBC3xUSmTXjuhuMmWoE2F8GlbUrZrCcByiWwKwVSh_VWkBhAFWBJ5oMRJX3gn6r9Kebw5G_bqrkwTUaOI3x4Z673FzdvnVag3LW3ejBCSEGjhZ0j_ee5B_68eUlgeVITi0WUpGndFqkJqvbPnc-ED-hcStHn74CYtwSzxkd-8PWoCzMA_xbKipepy32LgfzmAeKEET0m67ypd6dw9tVcGtvzpw55iYyUjI_0LHZi6yk5L8R_TngYY9OpM-wjXg1Qu73WKTrpJcwjAL9zy9tyeJEcdcy3-PUECnvBogdmE-Ij1_AYACqrSUjMPMJ5_hQB4DSrK6-2k2ELBdy6bzXc9UwOkb6hL6oFIs2lpdn3XXbdI47XZeXGTmtK5auuHhq6_samktIup0-5Wg71t646BPGBErHwuW3lQVI_IEIsaumK36--t7IjxWgX6Dy0NEJiSydoBtU61Cj_z4ysIK4oLryQu89JIWC4THyLX4QkJg5he6n5Kqas3HT3Sm9FCHXYbI1xc-sHVQhviM0brbdAwErOGyZeEy-3xN6afhkNt1wA1XxHWDQj-yQ8wP1aHTUwyhbRPstrFFRLX3DJJGE9VCFN6gxZbRNPQwpXBIM6yMceHMPqedCdECj8H4zZ9DvwL8k4U1iwrHhl6jb7oETa3utAbJAGRMpi0PZV1VoeUO6zpGFxh8fsiTVKo6JsQmWGYfF8k6X0MmzyvLuiV-bQgZvDmtQvjyIodxtjhaVNMTho1al0IdtgBccNoKqja5Ls4) *October* 106, no. 1 (2003): 59–74.
 
-Koolhaas, Rem, and Bernard Tschumi. {{% resource_link "0f3abcc9-5b80-4253-98aa-c50d69ed7b14" "\"2 Architects, 10 Questions on Program.\" (PDF - 2.5MB)" %}} *Praxis* 8 (2007): 6–15.
+Koolhaas, Rem, and Bernard Tschumi. ["2 Architects, 10 Questions on Program." (PDF - 2.5MB)](http://www.anamiljacki.com/wp-content/content/Article_Praxis8.pdf) *Praxis* 8 (2007): 6–15.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Recommended
 {{< tdclose >}}{{< tdopen >}}
 
-Delanda, Manuel. "{{% resource_link "bd8784fe-ed86-4f3e-a52f-56517e38ade6" "Deleuze, Diagrams and the Genesis of Form" %}}." *ANY* 23 (1998): 30–4.
+Delanda, Manuel. "[Deleuze, Diagrams and the Genesis of Form](http://www.scribd.com/doc/44348335/Delanda-Deleuze-Diagrams-and-the-Genesis-of-Form)." *ANY* 23 (1998): 30–4.
 
-McMorrough, John. {{% resource_link "e4419a1a-ac45-40fb-9429-0d9608ffa998" "\"Notes on the Adaptive Re-Use of Program.\"" %}} *Praxis* 8 (2006).
+McMorrough, John. ["Notes on the Adaptive Re-Use of Program."](https://www.jstor.org/stable/24328981?seq=1#page_scan_tab_contents) *Praxis* 8 (2006).
 
 Summerson, John. "The Case for a Theory of Modern Architecture." *RIBA Journal* (1957): 307–10.
 
@@ -50,7 +50,7 @@ Required
 
 Silvetti, Jorge. "The Muses are not Amused, Pandemonium in the House of Architecture." *Harvard Design Magazine* 19, Fall 2003/Winter 2004, 22–33.
 
-Kwinter, Sanford. {{% resource_link "2c75e881-beb4-4d9e-a3f4-304f70a686ba" "\"Concepts: The Architecture of Hope.\" (PDF)" %}} *Harvard Design Magazine* 19, Fall 2003/Winter 2004, 1–4.
+Kwinter, Sanford. ["Concepts: The Architecture of Hope." (PDF)](http://www.ntua.gr/archtech/forum/harvard-design-magazine/19_kwinter.pdf) *Harvard Design Magazine* 19, Fall 2003/Winter 2004, 1–4.
 
 Wigley, Mark. "The Architecture of Atmosphere." *Daidalos* 68 (1998): 18–27.
 
@@ -62,7 +62,7 @@ Recommended
 
 Kipnis, Jeffrey. "The Cunning of Cosmetics." *El Croquis* 84 (1997): 22–8.
 
-{{% resource_link "6b814c9a-16af-424e-b978-59a3770efeb8" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Finley, Dawn, and Mark Wamble. "The Rest of the World Exists." In *Perspecta* 34. MIT Press, 2003, pp. 128. ISBN:9780262523394.
+[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262523394) Finley, Dawn, and Mark Wamble. "The Rest of the World Exists." In *Perspecta* 34. MIT Press, 2003, pp. 128. ISBN:9780262523394.
 
 Arch + 188 (July 2008).
 
@@ -70,7 +70,7 @@ Arch + 188 (July 2008).
 Peruse
 {{< tdclose >}}{{< tdopen >}}
 
-Van Berkel, Ben, and Caroline Bos. "{{% resource_link "5016a4fa-b581-45e0-abf8-f0abe36abb0f" "Diagram Work" %}}." *ANY* 23 (1998).
+Van Berkel, Ben, and Caroline Bos. "[Diagram Work](https://www.jstor.org/stable/41856093?seq=1#page_scan_tab_contents)." *ANY* 23 (1998).
 
 Van Berkel, Ben, and Caroline Bos. "The New Concept of the Architect." In *MOVE*. Goose Press, 1999, pp. 27–33. ISBN: 9789076517018.
 
