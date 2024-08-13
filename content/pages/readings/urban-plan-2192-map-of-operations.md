@@ -58,7 +58,7 @@ Deleuze, Gilles, and Felix Guattari. "Introduction: Rhizome." In *A Thousand Pla
 Recommended
 {{< tdclose >}}{{< tdopen >}}
 
-Allen, Stan. ["From Object to Field." (PDF - 1.5MB)](http://lostritto.com/risd2013spring/wp-content/uploads/2013/04/allen1.pdf) *Architectural Design: After Geometry* 67, no. 5/6 (1995): 24–31.
+Allen, Stan. ["From Object to Field." (PDF - 1.5MB)](https://static1.squarespace.com/static/5657eb54e4b022a250fc2de4/t/566fa390d8af1045cf96f658/1450156944686/1997_Allen_From+Object+to+Field.pdf) *Architectural Design: After Geometry* 67, no. 5/6 (1995): 24–31.
 
 [![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262112604) Kwinter, Sanford. "The Complex and the Singular." In *Architectures of Time*. MIT Press, 2001, pp. 2–31. ISBN: 9780262112604.
 
