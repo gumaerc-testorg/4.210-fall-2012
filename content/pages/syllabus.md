@@ -18,7 +18,7 @@ Description
 
 The objective of this seminar is to produce a map of contemporary architectural practice and to develop tools for scrutinizing that map through formal reading, an understanding of (and speculations on) popular culture and politics, and by using our general grasp of the recent history of architectural thinking.
 
-The seminar will open by examining several collective attempts at theorizing the current situation in architectural discourse published recently in [_Hunch_](https://www.artbook.com/catalog--journals--hunch.html), [_Log_](https://www.anycorp.com/log/about), the last issue of [_Assemblage_](http://www.jstor.org/action/showPublication?journalCode=assemblage), and in the [_Harvard Design Magazine_](http://www.gsd.harvard.edu/#/projects/publications/harvard_design.html). Drawing out the most salient themes from these, the course will be structured in terms of 6 headings, or rather, 6 coupled themes:
+The seminar will open by examining several collective attempts at theorizing the current situation in architectural discourse published recently in {{% resource_link "a63535fa-abf0-4921-9bb4-19128b5f52e7" "_Hunch_" %}}, {{% resource_link "f4692683-d770-41e4-b0c8-a396e2641557" "_Log_" %}}, the last issue of {{% resource_link "34eecffc-9cb4-40ae-a3ef-6874ffe7f0e5" "_Assemblage_" %}}, and in the {{% resource_link "3a3f0b8d-d9ff-470f-bb77-2ef1bf04e54e" "_Harvard Design Magazine_" %}}. Drawing out the most salient themes from these, the course will be structured in terms of 6 headings, or rather, 6 coupled themes:
 
 *   City ⇒ Global Economy
 *   Urban Plan ⇒ Map of Operations
