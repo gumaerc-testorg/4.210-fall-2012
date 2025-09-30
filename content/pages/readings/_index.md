@@ -92,8 +92,8 @@ THEME
 
 The following are recommended texts from which a number of the course readings are taken:
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262513029) Hays, K. Michael. [_Architecture's Desire: Reading the Late Avant-Garde_](https://mitpress.mit.edu/9780262513029). MIT Press, 2009. ISBN: 9780262513029.
+{{% resource_link "7d2ef772-2f52-4f89-b583-7826fd0ac084" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Hays, K. Michael. {{% resource_link "7d2ef772-2f52-4f89-b583-7826fd0ac084" "_Architecture's Desire: Reading the Late Avant-Garde_" %}}. MIT Press, 2009. ISBN: 9780262513029.
 
-Sykes, A. Krysta. _Constructing a New Agenda: Architectural Theory 1993–2008_. Princeton Architectural Press, 2010. ISBN: 9781568988597. \[Preview with [Google Books](http://books.google.com/books?id=rMwnB8LLdj4C&pg=PAfrontpage#v=onepage)\]
+Sykes, A. Krysta. _Constructing a New Agenda: Architectural Theory 1993–2008_. Princeton Architectural Press, 2010. ISBN: 9781568988597. \[Preview with {{% resource_link "8cdc29ec-e5cc-4708-a7d7-ad2e8b658c65" "Google Books" %}}\]
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262134439) Moneo, Rafael. [_Theoretical Anxiety and Design Strategies in the Work of Eight Contemporary Architects_](https://mitpress.mit.edu/9780262134439). Translated by Gina Cariño. MIT Press, 2004. ISBN: 9780262134439.
+{{% resource_link "d926dd4d-0abc-4af5-ba48-8dbf8227aaaa" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Moneo, Rafael. {{% resource_link "d926dd4d-0abc-4af5-ba48-8dbf8227aaaa" "_Theoretical Anxiety and Design Strategies in the Work of Eight Contemporary Architects_" %}}. Translated by Gina Cariño. MIT Press, 2004. ISBN: 9780262134439.
